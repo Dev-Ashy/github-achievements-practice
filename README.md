@@ -8,3 +8,7 @@ This is a practice repository for earning GitHub achievement badges safely in my
 - Practice the YOLO badge by merging a pull request without a review.
 
 This repository is for learning and demonstration only.
+
+## Status
+
+Practice run in progress.
